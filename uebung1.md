@@ -2,8 +2,8 @@
 
 1. Projekt in Oxygen anlegen
 2. Transformationsszenario einrichten
-3. Input: input.xml
-4. Gewünschter Output:
+3. Input: input.xml (Ein Kochrezept aus dem Projekt http://gams.uni-graz.at/corema )
+4. Gewünschter Output (der exakte Inhalt inkl. aller Elemente von `<body>`):
 
 ```xml
 <recipe>
@@ -16,6 +16,7 @@
 <instruction>nu merkch man sol kain <ingredient ana="exclusion" commodity="Q3143131" en="pepper">pheffer</ingredient> noch <ingredient ana="exclusion" commodity="Q42527" en="spice">gwurcz</ingredient> <ingredient ana="exclusion" commodity="Q11254" en="table salt">salczen</ingredient> dy man besunder zu dem <ingredient commodity="Q19862498" en="game meat">wilpreat</ingredient> wil wenn das <ingredient commodity="Q19862498" en="game meat">wilpret</ingredient> ist vor <ingredient commodity="Q11254" en="table salt">gesalczen</ingredient></instruction></div>
 </recipe>
 ```
+5. Output im Ordner "Output" unter dem Dateinamen "output_uebung1.xml" speichern
 
 <details><summary>Hint</summary>
 <p>
