@@ -3,7 +3,7 @@
 1. Projekt in Oxygen anlegen
 2. Transformationsszenario einrichten
 3. Input: input.xml (Ein Kochrezept aus dem Projekt http://gams.uni-graz.at/corema )
-4. Gewünschter Output (der exakte Inhalt inkl. aller Elemente von `<body>`):
+4. Gewünschter Output (der exakte Inhalt inkl. aller Elemente von `<body>`, jedoch "formatiert"):
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
