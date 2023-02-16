@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/zimgraz/corema/main/schema_relaxng_schematron/corema_single_recipe.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en">Game meat, how to season</title>
+                <title xml:lang="de-x-enh">Merkch an welch wilpreat man gwuercz in dem hafem tuen sol oder nicht</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Semantic annotation of the recipe &quot;Game meat, how to season&quot; (w1.173)</edition>
+                <respStmt>
+                    <resp>edition</resp>
+                    <persName>Julia Eibinger</persName>
+                    <persName>Helmut W. Klug</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName>Astrid Böhm</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>digital processing</resp>
+                    <persName>Christian Steiner</persName>
+                </respStmt>
+                <principal>
+                    <persName>Helmut W. Klug</persName>
+                </principal>
+                <funder ref="https://www.fwf.ac.at/">FWF I 3614</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://informationsmodellierung.uni-graz.at"></ref>
+                    <orgName ref="http://d-nb.info/gnd/1137284463">ZIM-ACDH, University of Graz</orgName>
+                </publisher>
+                <authority>
+                    <ref target="https://informationsmodellierung.uni-graz.at"></ref>
+                    <orgName ref="http://d-nb.info/gnd/1137284463">ZIM-ACDH, University of Graz</orgName>
+                </authority>
+                <distributor>
+                    <ref target="https://gams.uni-graz.at"></ref>
+                    <orgName>GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+                </distributor>
+                <availability>
+                    <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+                    <licence n="facsimile" target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0 </licence>
+                </availability>
+                <date when="2022-03-25"></date>
+                <pubPlace>Graz</pubPlace>
+                <idno type="PID">o:corema.w1.173</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <ab>
+                    <title ref="http://gams.uni-graz.at/corema">CoReMA - Cooking Recipes of the Middle Ages: Corpus, Analysis, Visualisation</title>
+                    <ref target="http://gams.uni-graz.at/o:corema.about/TEI_SOURCE">About the project &quot;CoReMA&quot;</ref>
+                    <ref target="http://gams.uni-graz.at/o:corema.imprint/TEI_SOURCE">Imprint of the project &quot;CoReMA&quot;</ref>
+                </ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="corresponding_manuscript">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <institution ref="https://www.onb.ac.at/"> Österr. Nationalbibl.</institution>
+                        <idno>Cod. 2897 </idno>
+                        <altIdentifier type="abbr">
+                            <idno>W1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </bibl>
+                <bibl type="corresponding_collection">
+                    <msIdentifier>
+                        <altIdentifier type="collection">
+                            <idno>W1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </bibl>
+                <bibl type="manuscript_page">
+                    <title>page in corresponding manuscript</title>
+                    <ref target="https://gams.uni-graz.at/o:corema.w1#W1_020r" type="uri"></ref>
+                </bibl>
+                <bibl type="manuscript_tei_source">
+                    <title>TEI source of corresponding manuscript</title>
+                    <ref target="https://gams.uni-graz.at/o:corema.w1/TEI_SOURCE" type="uri"></ref>
+                </bibl>
+                <bibl type="manuscript_context">
+                    <title>context of corresponding manuscript/collection</title>
+                    <ref target="info:fedora/context:corema.w1" type="context">Context for all recipes in manuscript &quot;W1&quot;</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <ab>
+                <desc>References to the editorial principles and practices for this TEI file and the project CoReMA</desc>
+                <ref target="https://gams.uni-graz.at/o:corema.semanticdec/TEI_SOURCE">details of editorial principles and practices for the semantic annotation</ref>
+            </ab>
+        </encodingDesc>
+        <profileDesc>
+            <textClass ana="#w1.173">
+                <keywords>
+                    <term>kitchenTip</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <origDate>
+                    <date notAfter="1450" notBefore="1350" xml:lang="de">Teil I
+                        (Kochrezeptsammlung): Mitte 15. Jh.; Teil III: Mitte 14.
+                        Jh.</date>
+                    <date xml:lang="en">part I (cooking recipe collection):
+                        mid-15th c., part III: mid-14th c.</date>
+                </origDate>
+                <origPlace>
+                    <placeName xml:lang="de">Evtl. Augustiner-Chorherrenstift St.
+                        Dorothea Wien</placeName>
+                    <placeName xml:lang="en">possibly
+                        Augustinian canon monastery St. Dorothea Vienna</placeName>
+                    (Besitzvermerke Bl. 1r, 15r, 28v: 15. Jh. + 54v, 91v: 15.
+                    Jh.)</origPlace>
+            </creation>
+            <langUsage>
+                <language ident="de-x-enh" source="http://medieval-plants.org/mps-daten/inhalt/">Bavarian</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body xml:space="preserve"><div n="173" type="kitchenTip" xml:id="w1.173" xml:lang="de-x-enh"> 
+<title key="Game meat, how to season">Merkch an welch <ingredient commodity="Q19862498" en="game meat">wilpreat</ingredient> man <ingredient commodity="Q42527" en="spice">gwuercz</ingredient> in dem <tool commodity="Q15711817" en="pot">hafem</tool> tuen sol oder nicht</title> 
+<instruction>ZV allen <ingredient commodity="Q19862498" en="game meat">wilpret</ingredient> sol man <ingredient commodity="Q42527" en="spice">gwurcz</ingredient> machen</instruction> vnd 
+<instruction>daran tuen in den <tool commodity="Q15711817" en="pot">hafen</tool> zu einem <alternative reason="ingredient">gepraten <ingredient commodity="Q65244403" en="roe-deer meat">rehen</ingredient> oder gesoten <ingredient commodity="Q2296872" en="venison">hirsen</ingredient></alternative></instruction> 
+<instruction>zu dem secz mans besunder gemacht in einer ander <tool commodity="Q153988" en="bowl">schussel</tool></instruction> Aber 
+<instruction><alternative reason="ingredient">zu <ingredient commodity="Q3556748" en="rabbit">hasen</ingredient> <ingredient commodity="Q4388" en="red squirrel">aycharnn</ingredient> vnd zu <ingredient commodity="Q178559" en="poultry">vogeln</ingredient></alternative> an dy alle geust man <ingredient commodity="Q42527" en="spice">gwurcz</ingredient> in den <tool commodity="Q15711817" en="pot">hafen</tool></instruction> 
+<instruction>nu merkch man sol kain <ingredient ana="exclusion" commodity="Q3143131" en="pepper">pheffer</ingredient> noch <ingredient ana="exclusion" commodity="Q42527" en="spice">gwurcz</ingredient> <ingredient ana="exclusion" commodity="Q11254" en="table salt">salczen</ingredient> dy man besunder zu dem <ingredient commodity="Q19862498" en="game meat">wilpreat</ingredient> wil wenn das <ingredient commodity="Q19862498" en="game meat">wilpret</ingredient> ist vor <ingredient commodity="Q11254" en="table salt">gesalczen</ingredient></instruction></div></body>
+    </text>
+</TEI>
+
+
+
