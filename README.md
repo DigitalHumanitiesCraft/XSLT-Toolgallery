@@ -1,10 +1,10 @@
 # XSLT-Toolgallery
 Workshop: XSLT FÜR DIGITAL HUMANISTS - ACDH-CH TOOL GALLERY 9.1
 
-Folien: https://docs.google.com/presentation/d/1uh_XgfRg5CXLsvSc8k-tdfWakAQX1lyGKKYtfEvOh9w
+Folien: 
+* https://docs.google.com/presentation/d/1uh_XgfRg5CXLsvSc8k-tdfWakAQX1lyGKKYtfEvOh9w
 
 Screencasts:
-
 * [Screencast: Einführung in XSLT. XSLT-Transformationsszenario im Oxygen XML Editor, Teil 1](https://youtu.be/Nejczy0ux8Q)
 * [Screencast: Einführung in XSLT. HTML + Bootstrap 5 / apply-templates / TEI table to HTML table, Teil 2](https://youtu.be/x3FkbmkA1pA)
 * [Screencast: Einführung in XSLT. class & Bootstrap | templates & XPath | span & Tooltip,Teil 3](https://youtu.be/pIASA7l1mvo)
