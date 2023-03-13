@@ -12,3 +12,6 @@ Screencasts:
 * [Screencast: Einführung in XSLT. xsl:if, xsl:choose | boolean operators (or, and) | format-date(), substring-after(), concat() | castable as, Teil 5](https://youtu.be/NSHkmVu2Rq4)
 * [Screencast: Einführung in XSLT. for-each | for-each-group | selecting data from listPerson (index), Teil 6](https://youtu.be/xDFaqsv8FaM)
 
+Material zu den Screencasts:
+* https://github.com/chpollin/Teaching/tree/master/TTT/TTT_6_XSLT
+
