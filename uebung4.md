@@ -59,7 +59,7 @@
       nu merkch man sol kain <a href="https://www.wikidata.org/wiki/Q3143131"><span class="text-bg-danger" title="exkludierte Zutat">pheffer</span></a> noch <a href="https://www.wikidata.org/wiki/Q42527"><span class="text-bg-danger" title="exkludierte Zutat">gwurcz</span></a> <a href="https://www.wikidata.org/wiki/Q11254"><span class="text-bg-danger" title="exkludierte Zutat">salczen</span></a> dy man besunder zu dem <a href="https://www.wikidata.org/wiki/Q19862498"><span class="text-bg-success" title="Zutat">wilpreat</span></a> wil wenn das <a href="https://www.wikidata.org/wiki/Q19862498"><span class="text-bg-success" title="Zutat">wilpret</span></a> ist vor <a href="https://www.wikidata.org/wiki/Q11254"><span class="text-bg-success" title="Zutat">gesalczen</span></a><div>Manuscript Seite: <a href="https://gams.uni-graz.at/o:corema.w1#W1_020r">W1_020r</a></div><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script></body>
 </html>
 ```
-8. Output im Ordner "Output" unter dem Dateinamen "output_uebung3.html" speichern
+8. Output im Ordner "Output" unter dem Dateinamen "output_uebung4.html" speichern
 
 <details><summary><h2>Hints</h2></summary>
 <p>
