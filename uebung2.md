@@ -3,8 +3,8 @@
 
 1. Englischen Titel des Rezepts als HTML `<title>`
 2. Englischen und Frühneuhochdeutschen Titel als Überschrift und Unterüberschrift auf der Website
-3. Alle Zutaten sollten grün hinterlegt werden und einen Tooltip "Zutat" bekommen
-4. Alle Tools sollen blau hinterlegt werden und einen Tooltip "Tool" bekommen
+3. Alle Zutaten sollten grün hinterlegt werden
+4. Alle Tools sollen blau hinterlegt werden
 5. Wir befüllen eine Bootstrap Card mit den Metadaten aus dem TEI Header aus `<creation>` und platzieren sie über unserem Rezept
 6. Wir erstellen eine Bootstrap Card mit allen Zutaten und Tools aus dem Rezept und sortieren diese alphabetisch und platzieren diese unter der Metadaten
 7. Ungefährer Output:
@@ -75,6 +75,7 @@
 <details><summary><h2>Hints</h2></summary>
 <p>
 
+- Wir benötigen `<xsl:value-of>`, `<xsl:apply-templates>` und `<xsl:for-each>` mit `<xsl:sort>`
 - Saxon erzeugt für uns schon ein `<meta>` Element, dass `<meta charset="utf-8">` aus der Bootstrap Vorlage überflüssig macht
 - Standardmäßig sortiert `<xsl:sort>` alphabetisch
 - Unter https://getbootstrap.com/docs/5.2/helpers/color-background/ bietet Bootstrap eine Klasse für Hintergrund und passende Textfarbe in einem!
