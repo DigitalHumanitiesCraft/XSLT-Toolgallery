@@ -3,7 +3,7 @@
 
 1. Projekt in Oxygen anlegen
 2. Transformationsszenario einrichten
-3. Input: input.xml (Ein Kochrezept aus dem Projekt https://gams.uni-graz.at/corema )
+3. Input: [input.xml](https://raw.githubusercontent.com/DigitalHumanitiesCraft/XSLT-Toolgallery/main/input/input.xml) (Ein Kochrezept aus dem Projekt https://gams.uni-graz.at/corema)
 4. Gewünschter Output (der exakte Inhalt inkl. aller Elemente von `<body>`, jedoch "formatiert"):
 
 ```xml
