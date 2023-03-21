@@ -2,7 +2,7 @@
 Workshop: XSLT FÜR DIGITAL HUMANISTS - ACDH-CH TOOL GALLERY 9.1
 
 Folien: 
-* https://docs.google.com/presentation/d/1uh_XgfRg5CXLsvSc8k-tdfWakAQX1lyGKKYtfEvOh9w
+* https://tinyurl.com/XSLT-Toolgallery - https://docs.google.com/presentation/d/1uh_XgfRg5CXLsvSc8k-tdfWakAQX1lyGKKYtfEvOh9w
 
 Screencasts:
 * [Screencast: Einführung in XSLT. XSLT-Transformationsszenario im Oxygen XML Editor, Teil 1](https://youtu.be/Nejczy0ux8Q)
