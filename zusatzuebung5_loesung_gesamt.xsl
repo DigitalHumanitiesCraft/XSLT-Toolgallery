@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--Dieses Stylesheet muss auf https://glossa.uni-graz.at/archive/objects/query:exil.geolocations/methods/sdef:Query/getXML?params=$1|%3Fperson angewandt werden und dann das ergebnis (=umap = geojson mit ein paar optionen für umpap) in https://umap.openstreetmap.fr/de/map/exiltrans_776055 eingespielt werden-->
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:s="http://www.w3.org/2001/sw/DataAccess/rf1/result" exclude-result-prefixes="#all"
