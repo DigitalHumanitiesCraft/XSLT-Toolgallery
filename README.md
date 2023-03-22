@@ -15,3 +15,9 @@ Screencasts:
 Material zu den Screencasts:
 * https://github.com/chpollin/Teaching/tree/master/TTT/TTT_6_XSLT
 
+Übungen:
+* [Übung 1](uebung1.md) - Einrichten, Kopieren und Formatieren
+* [Übung 2](uebung2.md) - HTML Ansicht (mit Bootstrap) des Rezepts
+* [Übung 3](uebung3.md) - Attribute, Variablen, Funktionen, named templates (`call-template`) und `result-document`
+* [Übung 4](uebung4.md) - `choose`, `if`, `for-each-group`, `sort`
+* [Zusatzübung](zusatzuebung5.md) - SAPRQL to GeoJSON
