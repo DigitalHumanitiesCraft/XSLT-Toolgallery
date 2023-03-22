@@ -1,5 +1,5 @@
 ## Zusatzübung (5)
-### Wir Visualisieren Geburts- und Sterbeorte aus einem SPARQL XML Result
+### SPARQL to GeoJSON
 
 1. Gegeben ist ein SPARQL Result als XML wie es z.B. GraphDB generiert.
 2. Wir wollen alle Geburtsorte (`bPlace_label|lat|long`) als `Point` visualisieren

@@ -1,5 +1,5 @@
 ## Übung 4
-### HTML Ansicht (mit Bootstrap) des Rezepts
+### choose, if, for-each-group, sort
 
 1. Wenn das Attribut `ana="exclusion"` existiert färben wir die Zutat im Text rot ein und geben ihr den Tooltip "exkludierte Zutat"
 2. Wenn das Attribut `ana="exclusion"` existiert färben wir die Zutat auch in der Liste rot ein und schreiben vor die Zutat "Exkludiert:"

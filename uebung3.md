@@ -1,5 +1,5 @@
 ## Übung 3
-### HTML Ansicht (mit Bootstrap) des Rezepts
+### Attribute, Variablen, Funktionen, named templates und result-documents
 
 1. Wir fügen einen Tooltip über `<xsl:attribute>` zu den Zutaten und Tools hinzu
 2. Wir fügen einen Link zu Wikipedia zu jeder Zutat und jedem Tool hinzu. Dazu benutzen wir `<xsl:variable>` und die Xpath Funktion `concat()`
