@@ -2,7 +2,7 @@
 ### Attribute, Variablen, Funktionen, named templates und result-documents
 
 1. Wir fügen einen Tooltip über `<xsl:attribute>` zu den Zutaten und Tools hinzu
-2. Wir fügen einen Link zu Wikipedia zu jeder Zutat und jedem Tool hinzu. Dazu benutzen wir `<xsl:variable>` und die Xpath Funktion `concat()`
+2. Wir fügen einen Link zu Wikidata zu jeder Zutat und jedem Tool hinzu. Dazu benutzen wir `<xsl:variable>` und die Xpath Funktion `concat()`
 3. Wir lagern unseren Code für die Zutaten und Tools in ein "named template" aus und steuern den Tooltip und die Farbe über Parameter.
 4. Wir erstellen für jede `<instruction>` ein eigenes XML File im Unterordner "instructions" unter "output" und benutzen die ersten 10 Zeichen der `<instruction>` als Dateiname - dabei löschen wir alle Leerzeichen um Dateinamenprobleme zu vermeiden.
 5. Ungefährer Output:
