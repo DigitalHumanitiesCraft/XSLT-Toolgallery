@@ -10,6 +10,46 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>uebung3_loesung.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Übung 4</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>uebung2_loesung.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Übung 2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>uebung4.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -285,7 +325,7 @@
                                     <String>${currentFileURL}</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/C:/Users/PC/Desktop/data/Arbeit/DHCraft/Projekte/Git/xslt-toolgallery/input/input.xml</String>
+                                    <String>${pdu}/input/input.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
