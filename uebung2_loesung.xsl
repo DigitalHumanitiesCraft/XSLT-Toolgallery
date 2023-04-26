@@ -44,8 +44,9 @@
                             </xsl:for-each>
                         </ul>
                     </div>
+                	
                 </div>
-                <xsl:apply-templates select="//t:body"/>
+            	<xsl:apply-templates select="//t:body"/>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
             </body>
         </html>
@@ -57,5 +58,6 @@
     <xsl:template match="t:tool">
         <span class="text-bg-primary"><xsl:value-of select="."/></span>
     </xsl:template>
+
     
 </xsl:stylesheet>
